@@ -20,4 +20,4 @@ GreenBus Official is a web-based bus ticket booking request platform where users
 3. Start server with npm start
 
 ## Author
-Your Name
+--paras yadav
